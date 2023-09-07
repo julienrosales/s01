@@ -1,1 +1,3 @@
 Hi! My name is Julien Rosales
+
+I am currently studying at DLSUD and i just finished my On the Job Training in PercDC Learnhub in Bacoor, Cavite. We developed a website for their company. For our thesis, we are currently working on Youtube Transcript Summarizer using RAKE and TF-IDF Algorithm. 
